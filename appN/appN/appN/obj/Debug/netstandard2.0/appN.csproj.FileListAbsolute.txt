@@ -1,0 +1,14 @@
+C:\Users\TECNOLOGIA\source\repos\appN\appN\appN\bin\Debug\netstandard2.0\appN.deps.json
+C:\Users\TECNOLOGIA\source\repos\appN\appN\appN\bin\Debug\netstandard2.0\appN.dll
+C:\Users\TECNOLOGIA\source\repos\appN\appN\appN\bin\Debug\netstandard2.0\ref\appN.dll
+C:\Users\TECNOLOGIA\source\repos\appN\appN\appN\bin\Debug\netstandard2.0\appN.pdb
+C:\Users\TECNOLOGIA\source\repos\appN\appN\appN\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\TECNOLOGIA\source\repos\appN\appN\appN\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\TECNOLOGIA\source\repos\appN\appN\appN\obj\Debug\netstandard2.0\appN.AssemblyInfoInputs.cache
+C:\Users\TECNOLOGIA\source\repos\appN\appN\appN\obj\Debug\netstandard2.0\appN.AssemblyInfo.cs
+C:\Users\TECNOLOGIA\source\repos\appN\appN\appN\obj\Debug\netstandard2.0\appN.csproj.CoreCompileInputs.cache
+C:\Users\TECNOLOGIA\source\repos\appN\appN\appN\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\TECNOLOGIA\source\repos\appN\appN\appN\obj\Debug\netstandard2.0\appN.dll
+C:\Users\TECNOLOGIA\source\repos\appN\appN\appN\obj\Debug\netstandard2.0\ref\appN.dll
+C:\Users\TECNOLOGIA\source\repos\appN\appN\appN\obj\Debug\netstandard2.0\appN.pdb
+C:\Users\TECNOLOGIA\source\repos\appN\appN\appN\obj\Debug\netstandard2.0\appN.csprojAssemblyReference.cache

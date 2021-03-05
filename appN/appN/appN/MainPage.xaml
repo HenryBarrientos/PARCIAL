@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="appN.MainPage">
+
+    <StackLayout>
+        <Frame BackgroundColor="Black" Padding="24" CornerRadius="0">
+            <Label Text="PUEDO ADIVINAR EN NUMERO QUE ESTAS PENSNDO!" HorizontalTextAlignment="Center" TextColor="White" FontSize="36"/>
+        </Frame>
+        <Frame BackgroundColor="Gray" >
+            <Label Text="1.piensa en un numero " TextColor="White" FontSize="15"/>
+
+        </Frame>
+        <Frame BackgroundColor="Gray" >
+            <Label Text="2. Al numero que pensaste multiplicalo por 2 " TextColor="White" FontSize="15"/>
+
+        </Frame>
+        <Frame BackgroundColor="Gray" >
+            <Label Text="3. ahra al resultado de la multiplicacion sumale 8 " TextColor="white" FontSize="15"/>
+
+        </Frame>
+        <Frame BackgroundColor="Gray" >
+            <Label Text="4.Al resultado multiplicalo por 5 " TextColor="white" FontSize="15"/>
+
+        </Frame>
+        <Entry x:Name="res" Placeholder="ingrese el resultado " />
+        <Button HorizontalOptions="Center" Text=" Click " Clicked="Button_Clicked" />
+        
+
+
+    </StackLayout>
+
+</ContentPage>

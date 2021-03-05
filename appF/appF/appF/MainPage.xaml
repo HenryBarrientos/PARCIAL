@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="appF.MainPage">
+
+    <StackLayout>
+        <Frame BackgroundColor="Black" Padding="24" CornerRadius="0">
+            <Label Text="Adivinar el dia y mes de tu nacimiento!" HorizontalTextAlignment="Center" TextColor="White" FontSize="36"/>
+        </Frame>
+        <Frame BackgroundColor="Gray">
+            <Label  Text="1.Piensa en tu dia de nacimiento." TextColor="White"/>
+        </Frame>
+        <Frame BackgroundColor="Gray">
+            <Label Text="2. El dica de tu nacimiento multiplicalo por 20. " TextColor="White"/>
+        </Frame>
+        <Frame BackgroundColor="Gray">
+
+            <Label Text="3. Ahora sumale 73." TextColor="White"/>
+        </Frame>
+        <Frame BackgroundColor="Gray">
+
+            <Label Text="4.Ahora multiplicalo por 5 y tambien sumale el mes de tu nacimiento. " TextColor="White"/>
+        </Frame>
+        <Entry x:Name="resultado" Placeholder="ingrese resultado" />
+        <Button Text="Adivinr" Clicked="Button_Clicked" HorizontalOptions="Center" BackgroundColor="Blue" />
+    </StackLayout>
+
+</ContentPage>
